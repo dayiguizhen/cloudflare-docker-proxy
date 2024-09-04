@@ -15,6 +15,7 @@ const routes = {
   "ghcr.libcuda.so": "https://ghcr.io",
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
   "ecr.libcuda.so": "https://public.ecr.aws",
+  "production.cloudflare-docker-proxy.qiunan-zou.workers.dev": dockerHub,
 
   // staging
   "docker-staging.libcuda.so": dockerHub,
